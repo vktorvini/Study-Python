@@ -1,6 +1,7 @@
-![Template Alura](https://github.com/gui-lirasilva/Edige-POO/blob/master/Template/Thumbnails%20GitHub.png?raw=true)
 
-
+<h1>
+  Estudando Python
+</h1>
 # Resumo do projeto
 Projeto em andamento, sendo realizado por integrantes do time, visando a prática com a linguagem Python e seus conceitos.
 
