@@ -2,7 +2,7 @@
 
 
 # Resumo do projeto
-Projeto em andamento, sendo realizado por integrantes do time Scuba da Alura, visando a prática com a linguagem Java e os conceitos do paradigma de orientação a objetos.
+Projeto em andamento, sendo realizado por integrantes do time, visando a prática com a linguagem Python e seus conceitos.
 
 ## 🔨 Funcionalidades do projeto
 
@@ -14,7 +14,7 @@ Projeto em andamento, sendo realizado por integrantes do time Scuba da Alura, vi
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java 8``
+- ``Python``
 - ``InteliJ IDEA``
 - ``Paradigma de orientação a objetos``
 
